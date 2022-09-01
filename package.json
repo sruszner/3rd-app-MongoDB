@@ -1,0 +1,29 @@
+{
+  "name": "app-sprint2-grupo9-mongo",
+  "version": "1.0.0",
+  "description": "App Sprint2 Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sruszner/app-sprint2-grupo9.git"
+  },
+  "author": "Sebastian Ruszner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sruszner/app-sprint2-grupo9/issues"
+  },
+  "homepage": "https://github.com/sruszner/app-sprint2-grupo9#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.5.4",
+    "path": "^0.12.7"
+  }
+}
