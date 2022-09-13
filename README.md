@@ -1,8 +1,5 @@
-# APP SPRINT 2 GRUPO 9
-Sebastian Ruszner
-Constanza Rigoni
-Cintia Fernandez
-Noelia Diaz
+Full Stack - UTN 
+# 3rd APP w/Mongo DB
 
-
-# APP para control de stock y productos utilizando MONGODB con Mongoose. Tambien cambiamos el administrador de paquetes por NPM
+# Basic Node.js APP development using mongoDB CRUD with mongoose.
+NPM package manager
